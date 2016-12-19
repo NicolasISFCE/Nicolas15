@@ -1,7 +1,5 @@
 <h1>Les cours</h1>
 
-<!--<img src="./vues/images/film.jpg" class="img-responsive img-rounded" style="max-width: 400px"> -->
-
 <br/>
 
 <?php

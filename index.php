@@ -2,6 +2,8 @@
 session_start();
 
 include("./modeles/connexion_db.php");
+include("./modeles/modele_cours.php");
+include("./controleurs/controleur_cours.php");
 ?>
 
 <!DOCTYPE html>
@@ -25,6 +27,9 @@ include("./modeles/connexion_db.php");
             switch ($navigation) {
                 case 'presentation' :
                     include("./vues/vue_presentation.php");
+                    break;
+                case 'cours_liste' :
+                    gerer_cours_liste();
                     break;
             }
             include("./vues/menu_header_footer/vue_footer.php");
