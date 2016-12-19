@@ -1,8 +1,8 @@
-<?php
+<br/>
+<br/>
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+<footer>
+    <div class='well well-sm text-center'>
+        <h3>ISFCE - Décembre 2016</h3>
+    </div>
+</footer>
