@@ -8,5 +8,6 @@
         <h1>Projet GIT ISFCE DvpWeb</h1>
         <p>Vendredi 19 décembre 2016.</p>
         <h2>Et voici un deuxième titre</h2>
+        <h3>Et un troisième</h3>
     </body>
 </html>
